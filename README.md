@@ -1,12 +1,14 @@
 ### Hi there 👋, my name is Mariano Bitelo
 #### I am Coordenador de TI
-![I am Coordenador de TI](https://i.ibb.co/G3V9SpC/untitled.png)
+![I am Coordenador de TI]
+
+![Snake animation](https://github.com/mariano07/mariano07/blob/output/github-contribution-grid-snake.svg)
 
 Adoro ler e saber sobre tecnologia, principalmente projetos de IA, sou um amante de novos projetos e acima de tudo voltado para a mudança do mundo e de como vemos a tenoclogia em nossa volta,. Estou sempre buscando nossos conceitos e paradigmas novos para achar novas soluções para problemas antigos. 
 
 Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON / NODEJS / ETL
 
-- 🔭 I’m currently working on IA - CHATGPT 
+- 🔭 I’m currently working on IA - Coordenador de TI 
 - 🌱 I’m currently learning Soluções em IA generativas 
 - 👯 I’m looking to collaborate on Projeto de Programação para o ensino fundamental e medio 
 - 🤔 I’m looking for help with Desenvolvimento Agil com qualidade 

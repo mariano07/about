@@ -2,7 +2,7 @@
 #### I am Coordenador de TI
 ![I am Coordenador de TI]
 
-![Snake animation](https://github.com/mariano07/mariano07/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mariano07/blob/output/github-contribution-grid-snake.svg)
 
 Adoro ler e saber sobre tecnologia, principalmente projetos de IA, sou um amante de novos projetos e acima de tudo voltado para a mudança do mundo e de como vemos a tenoclogia em nossa volta,. Estou sempre buscando nossos conceitos e paradigmas novos para achar novas soluções para problemas antigos. 
 

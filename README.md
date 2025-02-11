@@ -1,34 +1,72 @@
-### Hi there 👋, my name is Mariano Bitelo
-#### I am Coordenador de TI
-![I am Coordenador de TI]
+### Olá! 👋 Me chamo Mariano Bitelo
 
-Adoro ler e saber sobre tecnologia, principalmente projetos de IA, sou um amante de novos projetos e acima de tudo voltado para a mudança do mundo e de como vemos a tenoclogia em nossa volta,. Estou sempre buscando nossos conceitos e paradigmas novos para achar novas soluções para problemas antigos. 
+#### Arquiteto de Soluções de TI | Professor | Entusiasta de Tecnologia
 
-Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON / NODEJS / ETL
+Apaixonado por tecnologia e suas infinitas possibilidades, estou sempre explorando novos conceitos e paradigmas para encontrar soluções inovadoras para problemas antigos. Atualmente, atuo como **Arquiteto de Soluções de TI na Terrazoo**, onde aplico minha experiência para transformar ideias em realidade.
 
-- 🔭 I’m currently working on IA - Coordenador de TI 
-- 🌱 I’m currently learning Soluções em IA generativas 
-- 👯 I’m looking to collaborate on Projeto de Programação para o ensino fundamental e medio 
-- 🤔 I’m looking for help with Desenvolvimento Agil com qualidade 
-- 💬 Ask me about Sobre IA Generativa 
-- 📫 How to reach me: mariano.bernardino@gmail.com 
+🧠 **Quem sou eu:**
+
+- **Arquiteto de Soluções de TI** na Terrazoo
+- Ex-**Coordenador de TI** e **TechLead**
+- **Professor** no Riachuelo, compartilhando conhecimento com o técnico integrado
+- Avidamente interessado em projetos de **Inteligência Artificial** e suas aplicações práticas
+- Leitor voraz, sempre em busca de aprender e crescer
+
+🚀 **O que me move:**
+
+- **Inovação:** Busco constantemente maneiras criativas de aplicar tecnologia para impactar positivamente o mundo ao nosso redor.
+- **Educação:** Acredito no poder transformador do conhecimento e adoro ensinar e inspirar futuros profissionais da área.
+- **Colaboração:** Estou sempre aberto a colaborar em projetos que desafiem o status quo e promovam a mudança.
+
+💡 **Habilidades Técnicas:**
+
+- **Linguagens de Programação:** JavaScript (Vue.js, React), Python, Node.js
+- **Desenvolvimento Web:** HTML5, CSS3
+- **Processamento de Dados:** ETL (Extração, Transformação e Carga)
+- **Metodologias Ágeis:** Práticas para desenvolvimento com qualidade e eficiência
+
+🌱 **No momento, estou aprendendo:**
+
+- Soluções em **Inteligência Artificial Generativa**
+- Novas abordagens para **Desenvolvimento Ágil** com foco em qualidade
+
+🎯 **Objetivos Atuais:**
+
+- Colaborar em projetos de **Programação** para o ensino fundamental e médio
+- Explorar e discutir sobre **IA Generativa** e suas aplicações
+- Melhoras os meios digitais e interno e externos das aplicações em projetos
+
+📫 **Como entrar em contato comigo:**
 
 <div>
-<a href="https://instagram.com/mariano.bitelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:mariano.bernardino@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mariano-bitelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="mailto:mariano.bernardino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mariano-bitelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/mariano.bitelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mariano07)](https://github.com/ryo-ma/github-profile-trophy)
+🏆 **Conquistas no GitHub:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariano07)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mariano07&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariano07&show_icons=true&count_private=true)  
+📊 **Estatísticas do GitHub:**
 
-![GitHub metrics](https://metrics.lecoq.io/mariano07)  
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariano07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariano07&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mariano07)  
+🔥 **Contribuições contínuas:**
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mariano07&theme=dark)
 
+📈 **Metricas adicionais:**
+
+![GitHub metrics](https://metrics.lecoq.io/mariano07)
+
+---
+
+🌟 **Vamos conectar e criar algo incrível juntos!**
+
+Se você está interessado em colaborar em projetos inovadores ou apenas quer bater um papo sobre tecnologia e IA, não hesite em me contatar. Adoro trocar ideias e explorar novas possibilidades!
